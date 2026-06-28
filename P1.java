@@ -6,6 +6,7 @@ public class P1{
              }
     }
 
+/*
 C:\Softpro26\Java>javac --version
 javac 24.0.2
 
@@ -87,3 +88,4 @@ Hello Chacha
 kaise ho!
 
 C:\Softpro26\Java>start notepad P4.java
+*/

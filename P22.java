@@ -16,7 +16,8 @@ public class P22{
      public static void main(String[] args){
              int min = 1000;
               int max = 9999;
-               int r = (int)(Math.random()* 9999);
- System.out.println("Value of r: " + r);
+               double r = (Math.random() -1);
+                int range = (int)(r*(max-min)+ max );
+ System.out.println("Number: " + range);
 }
 }
