@@ -1,4 +1,4 @@
-/*  Dijikastra Algorithm of random Range
+git /*  Dijikastra Algorithm of random Range
 
  let r be random factor , and min and max are range of numbers 
 min = 1000
@@ -9,6 +9,25 @@ r = Math.random()
 
 range = Math.random()*(max-min)
 
+============================================================================================================================================================================================
+   Three important principal in programming methodology
+   1. DRY : denote repeat yourself
+             a. Modular
+             b. Functional
+             c. OOPS
+             d. Design pattern
+
+   2. KISS : keep it simple or sweet
+             keep it straight and simple
+             keep it simple and stupid
+
+   3. SOLID Principal :single responsiblity principal
+            S:
+            O:
+            L:
+            I:
+            D:
+============================================================================================================================================================================================
 */
 
 
