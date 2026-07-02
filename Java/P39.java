@@ -8,3 +8,6 @@ public class P39{
 
      System.out.println("Before swapping a =" +a);
    System.out.println("Before swapping b =" +b);
+
+        }
+}
