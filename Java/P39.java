@@ -2,8 +2,10 @@
 
 public class P39{
         public static void main(String[] args){
-          int a = 10;
-          int b = 20;
+          Scanner sc = new Scanner(System.in);
+          System.out.println("Enter the value of a and b");
+          int a = sc.nextInt();
+          int b = sc.nextInt();
           int temp;
 
      System.out.println("Before swapping a =" +a);
