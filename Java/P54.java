@@ -16,4 +16,4 @@ public class P54{
            System.out.print("The given number is Odd");
      }
         }
-         }   
+         }  
