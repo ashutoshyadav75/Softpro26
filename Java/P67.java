@@ -28,7 +28,8 @@ public  class P67{
                      System.out.print("Not prime number");
                   }
             }
-}}
+        } 
+     }
 }
 
 
