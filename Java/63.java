@@ -7,10 +7,11 @@ public class P56{
                    int n = sc.nextInt();
                        if(n%2==0){
                       System.out.print("Even");
-re
+                          
                        }
-                    
+                    else{
                          System.out.print("Odd");
+}
                       }
 
 }
